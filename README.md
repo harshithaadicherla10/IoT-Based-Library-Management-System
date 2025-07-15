@@ -25,7 +25,7 @@ An academic project aimed at automating book tracking and library operations usi
 
 ## 🛠️ System Overview
 
-
+Block Diagram [Block Diagram.png]
 
 ---
 
@@ -33,14 +33,23 @@ An academic project aimed at automating book tracking and library operations usi
 
 /Library-IoT-System
 │
+
 ├── app.py # Flask app
+
 ├── rfid_reader.py # RFID reader integration
+
 ├── qr_scanner.py # QR code handling
+
 ├── templates/
+
 │ └── index.html # Web UI
+
 ├── static/
+
 │ └── style.css
+
 ├── LCD_control.py # LCD interfacing
+
 ├── README.md
 
 
