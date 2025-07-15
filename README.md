@@ -52,6 +52,7 @@ An academic project aimed at automating book tracking and library operations usi
 
 ├── README.md
 
+---
 
 ## 📬 Contact
 Developed by [Harshitha Adicherla](http://www.linkedin.com/in/harshithaadicherla10)
