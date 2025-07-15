@@ -25,7 +25,7 @@ An academic project aimed at automating book tracking and library operations usi
 
 ## 🛠️ System Overview
 
-![Block Diagram] (Block Diagram.png)
+![Block Diagram] (Block_Diagram.png)
 
 ---
 
