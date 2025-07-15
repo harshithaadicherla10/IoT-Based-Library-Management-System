@@ -25,7 +25,7 @@ An academic project aimed at automating book tracking and library operations usi
 
 ## 🛠️ System Overview
 
-Block Diagram [[Block Diagram.png](https://github.com/harshithaadicherla10/IoT-Based-Library-Management-System/blob/main/Block%20Diagram.png)]
+![Block Diagram] (Block Diagram.png)
 
 ---
 
