@@ -5,7 +5,7 @@ An academic project aimed at automating book tracking and library operations usi
 ---
 
 ## 🔧 Tools & Technologies
-- Raspberry Pi (3B+)
+- Raspberry Pi Zero W
 - Python
 - Flask (Web Interface)
 - RFID Reader Module
